@@ -43,7 +43,7 @@
   </logicalModel>
 <layout>
   <shapes>
-      <shape modelObjectName="Output" modelObjectNameSpace="MeasureGroup">
+  <shape modelObjectName="Output" modelObjectNameSpace="MeasureGroup" expanded="true">
         <upperLeftCorner x="40" y="85"/></shape>
     </shapes>
 </layout>
